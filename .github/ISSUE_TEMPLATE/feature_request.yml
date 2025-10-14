@@ -4,10 +4,10 @@ body:
   - type: 'markdown'
     attributes:
       value: |-
-      > [!IMPORTANT]
-      > Thanks for taking the time to suggest an enhancement!
-      >
-      > Please search existing issues to see if a similar feature has already been requested.
+        > [!IMPORTANT]
+        > Thanks for taking the time to suggest an enhancement!
+        >
+        > Please search existing issues to see if a similar feature has already been requested.
 
   - type: 'textarea'
     id: 'feature'
